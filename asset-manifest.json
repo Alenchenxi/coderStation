@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.40d18cca.css",
+    "main.js": "/assets/js/main.60aadd8d.js",
+    "assets/media/index.cjs": "/assets/media/index.b599194a631d76b49328.cjs",
+    "assets/media/iconfont.ttf?t=1675231156454": "/assets/media/iconfont.c1084e73fe5481cf8245.ttf",
+    "index.html": "/index.html",
+    "main.40d18cca.css.map": "/static/css/main.40d18cca.css.map",
+    "main.60aadd8d.js.map": "/assets/js/main.60aadd8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40d18cca.css",
+    "assets/js/main.60aadd8d.js"
+  ]
+}
